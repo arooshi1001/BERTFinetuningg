@@ -1,7 +1,7 @@
 # BERT Fine-Tuning for Text Classification
 ## 📌 Overview
 
-This project demonstrates fine-tuning BERT (Bidirectional Encoder Representations from Transformers) for text classification tasks. It also explores traditional machine learning models like Decision Tree & Logistic Regression for comparison.
+This project demonstrates fine-tuning **BERT (Bidirectional Encoder Representations from Transformers)** for text classification tasks. It also explores traditional machine learning models like Decision Tree & Logistic Regression for comparison.
 
 ## 🚀 Features
 
@@ -9,7 +9,7 @@ Fine-tunes a pretrained BERT model for classification.
 
 Implements Decision Tree and Logistic Regression baselines.
 
-Loads and processes a dataset (data.csv from Google Drive).
+Loads and processes a dataset (`data.csv` from Google Drive).
 
 Tokenization and padding to a fixed sequence length.
 
@@ -47,7 +47,7 @@ Train & Evaluate Models:
 
 Train Decision Tree, Logistic Regression, and BERT.
 
-Compare performance metrics.
+_Compare performance metrics._
 
 ## 📊 Results
 
