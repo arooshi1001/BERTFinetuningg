@@ -30,13 +30,13 @@ Additionally, if using Google Colab, mount your Drive:
 from google.colab import drive
 drive.mount('/content/drive', force_remount=True)
 ```
-⚙️ Usage
+##⚙️ Usage
 
 Load the dataset:
-
+```bash
 import pandas as pd
 df = pd.read_csv('/content/drive/MyDrive/ml-datasets/data.csv')
-
+```
 Preprocess data:
 
 Tokenization using BERT tokenizer.
