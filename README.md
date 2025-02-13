@@ -123,12 +123,4 @@ python test.py --input "Your sample text here"
 - Deployment as a **REST API** for real-time sentiment analysis.
 - Train on a **larger dataset** to improve robustness.
 
----
-
-## 📩 Contact
-For any queries or contributions, reach out via email at **your-email@example.com** or create an issue in the repository.
-
----
-
-### ⭐ If you found this project helpful, give it a star! ⭐
 
